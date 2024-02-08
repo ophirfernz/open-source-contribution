@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://media1.tenor.com/m/YVvy33N0zqsAAAAd/arpit-bala-arpit.gif">
 </p>
 
-### Big thanks to you sir for your Golang series. And sorry to disturb you about this pull request.
+### Big thanks to you sir for your Golang series. And sorry to disturb you about this pull request .ok.
 
 
 
